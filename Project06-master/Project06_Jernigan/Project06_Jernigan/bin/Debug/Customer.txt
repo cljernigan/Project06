@@ -1,0 +1,5 @@
+Harry Howser,852 Street St Henrico Va 12345,852-412-7895,0001,true
+Kip Trouble,8741 Road Lane Akron Oh 85241,874-852-9631,0002,true
+Frederick Customer,7412 Grip Rd Wi 74189,789-456-7895,0003,true
+Walter Math,8 Mockingbird Ln Ny 85241,962-852-8526,0004,true
+Tony Friday,951 Kiln St Wa 85214,854-745-9632,0005,true
